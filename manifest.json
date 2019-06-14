@@ -1,0 +1,12 @@
+{
+  "name": "ReGmail",
+  "description": "gmail cleanup app",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": { "48": "assets/waves.png", "128": "assets/hi.jpg" }
+}
